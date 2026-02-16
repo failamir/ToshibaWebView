@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toshiba WebView</string>
+    <string name="enter_url_title">Setup WebView</string>
+    <string name="enter_url_hint">https://www.google.com</string>
+    <string name="width_hint">Width (px)</string>
+    <string name="height_hint">Height (px)</string>
+    <string name="go_button">Go</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="resolution_label">Resolution (W x H):</string>
+    <string name="url_label">URL:</string>
+</resources>
